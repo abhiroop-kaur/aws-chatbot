@@ -1,0 +1,1 @@
+{"name":"DropOff","identifier":"OTDX7QXV9U","description":null,"slotTypeValues":[{"synonyms":[{"value":"front"},{"value":"door"},{"value":"entrance"}],"sampleValue":{"value":"front"}},{"synonyms":[{"value":"patio"},{"value":"deck"}],"sampleValue":{"value":"porch"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","regexFilter":null}}
